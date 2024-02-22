@@ -18,5 +18,5 @@
 
    ```bash
    git clone https://github.com/MPD12340/Advanced-Mern-Ecommerce.git
-   cd mern-ecommerce
+
 
